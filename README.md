@@ -1,6 +1,6 @@
 To see visualization in the browser check [this link](http://bl.ocks.org/olgabradford/43ae6795b8081f3bacd18dd54c585917)  
 
-##Design
+## Design
 This chart shows a story about how median house price in Perth is related to how well students study in government high schools (ATAR score) and percentage of students who continue education in Universities (ATAR participation).
 I combined two chart types: bubble chart and bar chart. Bubble chart is good to display 3 variables at once.   
 X axis is for Perth median house prices. I found data only for 2 years, 2015 and 2017.
