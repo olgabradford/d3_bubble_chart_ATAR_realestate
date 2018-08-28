@@ -1,0 +1,71 @@
+	Suburb	PostCode	House price	Year	Catchment School		ATAR	ATAR_participation	Region
+1	Rossmoyne	6148	1100000	2017	Rossmoyne senior high		88.95	82.52	Perth Inner South
+2	Rossmoyne	6148	1130000	2015	Rossmoyne senior high		87.15	84.38	Perth Inner South
+3	Ardross	6153	957000	2017	Applecross Senior High School		86.15	69	Perth Inner South
+4	Ardross	6153	1050000	2015	Applecross Senior High School		84.4	74.11	Perth Inner South
+5	Atwell	6164	520500	2017	Atwell College		72.75	18.12	Perth South
+6	Atwell	6164	585000	2015	Atwell College		63.35	46.05	Perth South
+7	Baldivis	6171	400000	2017	Baldivis Secondary College		66.9	28.64	Perth South
+8	Baldivis	6171	460000	2015	Baldivis Secondary College		66.9	28.64	Perth South
+9	Balcatta	6021	490000	2017	Balcatta Senior High School		69	43.33	Perth Inner North
+10	Balcatta	6021	552000	2015	Balcatta Senior High School		72.55	42.72	Perth Inner North
+11	Craigie	6025	440000	2017	Belridge Secondary College		66.9	25.98	Perth North
+12	Craigie	6025	499600	2015	Belridge Secondary College		66.3	29.56	Perth North
+13	Butler	6036	385000	2017	Butler College		57.25	33.18	Perth North
+14	Butler	6036	439000	2015	Butler College		57.25	33.18	Perth North
+15	Canning Vale	6155	565000	2017	Canning Vale College		78.6	37.4	Perth South
+16	Canning Vale	6155	617000	2015	Canning Vale College		72.5	44.17	Perth South
+17	Carine	6020	790000	2017	Carine Senior High		83.2	55.14	Perth North
+18	Carine	6020	780000	2015	Carine Senior High		80	55.16	Perth North
+19	Churchlands	6018	1350000	2017	Churchlands Senior High		86.6	67.26	Western Suburbs
+20	Churchlands	6018	1301000	2015	Churchlands Senior High		83.05	74.54	Western Suburbs
+21	Secret Harbour	6173	439000	2017	Comet bay College		79.9	25.47	Perth South
+22	Secret Harbour	6173	475000	2015	Comet bay College		73.95	31.05	Perth South
+23	Como	6152	892500	2017	Como Secondary College		73.6	59.43	Perth Inner South
+24	Como	6152	880000	2015	Como Secondary College		76.9	54.2	Perth Inner South
+25	Duncraig	6023	690000	2017	Duncraig senior high		83.45	48.68	Perth North
+26	Duncraig	6023	724000	2015	Duncraig senior high		81.8	55.73	Perth North
+27	Ellenbrook	6069	380000	2017	Ellenbrook Secondary college		79.1	13.58	Perth East
+28	Ellenbrook	6069	440000	2015	Ellenbrook Secondary college		65.1	30.36	Perth East
+29	Greenwood	6024	500000	2017	Greenwood college		83.55	25	Perth North
+30	Greenwood	6024	564000	2015	Greenwood college		72.3	30.32	Perth North
+31	Halls Head	6210	420000	2017	Halls Head College		61.15	30.05	Perth South
+32	Halls Head	6210	465000	2015	Halls Head College		65.95	35.67	Perth South
+33	Kalamunda	6076	585000	2017	Kalamunda Senior High		74.75	39.07	Perth East
+34	Kalamunda	6076	675000	2015	Kalamunda Senior High		68.15	47.05	Perth East
+35	Kelmscott	6111	330000	2017	Kelmscott Senior High		69.6	35.75	Perth East
+36	Kelmscott	6111	390000	2015	Kelmscott Senior High		74.85	30.82	Perth East
+37	Victoria Park	6100	660000	2017	Kent Street Senior High School		63.9	46.51	Perth Inner South
+38	Victoria Park	6100	700000	2015	Kent Street Senior High School		65.55	50.45	Perth Inner South
+39	Leeming	6149	705000	2017	Leeming Senior High		78.8	44.93	Perth South
+40	Leeming	6149	760000	2015	Leeming Senior High		77.35	50.44	Perth South
+41	Lesmurdie	6076	595000	2017	Lesmurdie Senior High		79.35	49.72	Perth East
+42	Lesmurdie	6076	647000	2015	Lesmurdie Senior High		77.8	44.31	Perth East
+43	Lynwood	6147	500000	2017	Lynwood Senior High		85.7	18.22	Perth South
+44	Lynwood	6147	390000	2015	Lynwood Senior High		73.75	29.34	Perth South
+45	Melville	6156	750000	2017	Melville Senior High		80.6	49.23	Perth South
+46	Melville	6156	840000	2015	Melville Senior High		76.95	65.11	Perth South
+47	Mindarie	6030	655000	2017	Mindarie Senior College		68.9	35	Perth North
+48	Mindarie	6030	715000	2015	Mindarie Senior College		71.4	39.12	Perth North
+49	Mirrabooka	6061	440000	2017	Mirrabooka Senior High		58.55	36.47	Perth East
+50	Mirrabooka	6061	341250	2015	Mirrabooka Senior High		67.1	26.98	Perth East
+51	Morley	6062	475500	2017	Morley Senior High		74.35	59.02	Perth East
+52	Morley	6062	565000	2015	Morley Senior High		63.75	48.36	Perth East
+53	Mount Lawley	6050	930000	2017	Mount Lawley Senior High		79.45	71.11	Perth Inner North
+54	Mount Lawley	6050	1067000	2015	Mount Lawley Senior High		79.85	67.92	Perth Inner North
+55	Ocean Reef	6027	720000	2017	Ocean Reef Senior High		81.4	36.84	Perth North
+56	Ocean Reef	6027	775000	2015	Ocean Reef Senior High		67.3	53.04	Perth North
+57	Rockingham	6168	450000	2017	Rockingham Senior High		63.85	24.85	Perth South
+58	Rockingham	6168	370000	2015	Rockingham Senior High		63.85	24.85	Perth South
+59	Safety Bay	6169	450000	2017	Safety Bay Senior High		56.05	23.85	Perth South
+60	Safety Bay	6169	395000	2015	Safety Bay Senior High		68.6	28.07	Perth South
+61	Mosman park	6012	1377500	2017	Shenton College		88.8	73.52	Western Suburbs
+62	Mosman park	6012	1400000	2015	Shenton College		85.4	80.04	Western Suburbs
+63	Thornlie	6108	385000	2017	Thornlie Senior High School		59.7	27.34	Perth East
+64	Thornlie	6108	460000	2015	Thornlie Senior High School		47.7	26.04	Perth East
+65	Wanneroo	6065	467000	2017	Wanneroo Secondary College		59.7	27.34	Perth North
+66	Wanneroo	6065	415000	2015	Wanneroo Secondary College		58.2	31.88	Perth North
+67	Willeton	6155	700000	2017	Willeton Senior High School		89.15	68.86	Perth South
+68	Willeton	6155	745000	2015	Willeton Senior High School		85.85	67.45	Perth South
+69	Woodvale	6026	600000	2017	Woodvale Secondary College		82.3	45.21	Perth North
+70	Woodvale	6026	685000	2015	Woodvale Secondary College		75.7	50.65	Perth North
