@@ -21,7 +21,7 @@
     d3.select("body").append("h2").text("Perth Metro area median house prices");
     d3.select("body").append("h5").text("VS ATAR results in high state schools in catchment area ");
       d3.select("body").append("h5").text("Bubble size: ATAR participation %.  Bar length: Median house price in $AU. Bar height ATAR score");
-    var svg = dimple.newSvg("body", 1200, 600);
+    var svg = dimple.newSvg("body", 1100, 600);
     //read data
     d3.tsv("data/data_filtered_final_for_showing.tsv", function (data) {
           // Filter data for 12 years
@@ -44,7 +44,7 @@
           var firstTick = true;
 
           // Place the indicator bar chart with years to the right
-          indicator.setBounds(960, 48, 152, 312);
+          indicator.setBounds(940, 48, 152, 312);
 
           // ??????????????????? Add dates along the y axis
           var y = indicator.addCategoryAxis("y", "Year");
