@@ -1,4 +1,4 @@
-To see visualization in the browser check [this link](http://bl.ocks.org/ADD_LINK after publishing/)  
+To see visualization in the browser check [this link](http://bl.ocks.org/olgabradford/43ae6795b8081f3bacd18dd54c585917)  
 
 ##Design
 This chart shows a story about how median house price in Perth is related to how well students study in government high schools (ATAR score) and percentage of students who continue education in Universities (ATAR participation).
